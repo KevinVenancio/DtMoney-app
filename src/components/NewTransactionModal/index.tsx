@@ -17,7 +17,7 @@ export function NewTransactionModal({ isOpen, onRequestClose }: NewTransactionMo
   const { createTransaction } = useTransactions();
 
   const [title, setTitle] = useState('');
-  const [amount, setAmount] = useState();
+  const [amount, setAmount] = useState(0);
   const [category, setCategory] = useState('');
   const [type, setType] = useState('deposit');
 
