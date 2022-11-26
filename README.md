@@ -1,6 +1,6 @@
 ﻿# DtMoney-app
 <h1 align="center">
-  <img alt="app_dtmoney" title="DtMoney" src="./src/assets/logo.svg" width="220px" />
+  <img alt="app_dtmoney" title="DtMoney" src="./src/assets/logo.svg#vitrinedev" width="220px" />
 </h1>
 
 <p align="center">
